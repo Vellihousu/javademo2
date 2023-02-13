@@ -1,8 +1,9 @@
 package main;
 
 /**
- * Hello world!
- *
+ * Olio-ohjelmointi 2023 Viikko2
+ * Veikko Vanninen
+ * 
  */
 public class App 
 {
